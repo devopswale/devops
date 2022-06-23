@@ -1,1 +1,1 @@
-###this is empty Dockerfile
+This is sample devops training
