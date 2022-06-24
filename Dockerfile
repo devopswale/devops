@@ -1,1 +1,1 @@
-###this is empty Dockerfile
+#this is devops training session
